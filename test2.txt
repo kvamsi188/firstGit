@@ -1,0 +1,12 @@
+ Volume in drive C is OS Disk
+ Volume Serial Number is 40A0-5B91
+
+ Directory of C:\Users\vkonreddi\Desktop\gitFolder
+
+15-10-2020  01:44    <DIR>          .
+15-10-2020  01:44    <DIR>          ..
+15-10-2020  01:09                22 index.html
+15-10-2020  01:44                 0 test2.txt
+15-10-2020  01:10               361 text1.txt
+               3 File(s)            383 bytes
+               2 Dir(s)  51,622,813,696 bytes free
